@@ -1,4 +1,4 @@
-### Hi all, I'm Liza 👋 <img align="right" src="https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
+### Hi all, I'm Liza 👋 
 
 ## I'm a Junior Frontend Developer!
 
