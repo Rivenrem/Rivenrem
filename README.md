@@ -4,7 +4,7 @@
 
 - 📍 I’m From Belarus (Minsk)
 
-- 📫 How to reach me: **kryvanosava.lizaveta@gmail.com**
+- 📫 How to reach me: **wennecia@gmail.com**
 
 - 🌍 I speak Russian (native), English (B2)
 
