@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **wennecia@gmail.com**
 
-- 🌍 I speak Russian (native), English (B2)
+- 🌍 I speak Russian/Belarusian(native), English (B2)
 
 ### 🤝 Connect with me:
 
@@ -27,7 +27,6 @@
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 <img alt="less" src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" />&nbsp;
 <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
-<img alt="NodeJS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
           <img
             alt="nodeJS"
             src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=whitehttps://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
