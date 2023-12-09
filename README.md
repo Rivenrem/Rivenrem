@@ -36,8 +36,16 @@
             src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
           />&nbsp;
           <img
-            alt="Heroku"
-            src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
+            alt="React query"
+            src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"
+          />&nbsp;
+          <img
+            alt="MUI"
+            src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"
+          />&nbsp;
+          <img
+            alt="styled components"
+            src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
           />&nbsp;
 
 
